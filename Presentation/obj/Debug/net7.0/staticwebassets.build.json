@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "cTBBjp05xZGhZTpsQA94eADa5XsyJaJGZp5iOdIayVo=",
+  "Source": "Presentation",
+  "BasePath": "_content/Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Presentation\\wwwroot",
+      "Source": "Presentation",
+      "ContentRoot": "D:\\ASP .NET Core\\LibraryManagementWebApi\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ASP .NET Core\\LibraryManagementWebApi\\Presentation\\wwwroot\\Images\\396d30a4-7c61-4168-9598-7c27ddfded38.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP .NET Core\\LibraryManagementWebApi\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "Images/396d30a4-7c61-4168-9598-7c27ddfded38.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\396d30a4-7c61-4168-9598-7c27ddfded38.jpg"
+    },
+    {
+      "Identity": "D:\\ASP .NET Core\\LibraryManagementWebApi\\Presentation\\wwwroot\\Images\\7488773f-762d-4197-bafb-4cef04988d8d.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP .NET Core\\LibraryManagementWebApi\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "Images/7488773f-762d-4197-bafb-4cef04988d8d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\7488773f-762d-4197-bafb-4cef04988d8d.jpg"
+    },
+    {
+      "Identity": "D:\\ASP .NET Core\\LibraryManagementWebApi\\Presentation\\wwwroot\\Images\\b62fb698-2bea-4093-80ac-028c0d2997a7.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP .NET Core\\LibraryManagementWebApi\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "Images/b62fb698-2bea-4093-80ac-028c0d2997a7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\b62fb698-2bea-4093-80ac-028c0d2997a7.jpg"
+    },
+    {
+      "Identity": "D:\\ASP .NET Core\\LibraryManagementWebApi\\Presentation\\wwwroot\\Images\\cb8ddc21-2066-4c5a-84d5-a6ddd0bc45b7.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP .NET Core\\LibraryManagementWebApi\\Presentation\\wwwroot\\",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "Images/cb8ddc21-2066-4c5a-84d5-a6ddd0bc45b7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\cb8ddc21-2066-4c5a-84d5-a6ddd0bc45b7.jpg"
+    }
+  ]
+}

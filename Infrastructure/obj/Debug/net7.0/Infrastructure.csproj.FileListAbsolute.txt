@@ -1,0 +1,38 @@
+D:\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Application.dll
+D:\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Application.pdb
+D:\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Application.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Application.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

@@ -1,0 +1,202 @@
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\appsettings.Development.json
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\appsettings.json
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.staticwebassets.runtime.json
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.exe
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.deps.json
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.runtimeconfig.json
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.pdb
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\AutoMapper.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Azure.Core.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Azure.Identity.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\FluentValidation.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\MediatR.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Memory.Data.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Application.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Domain.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Infrastructure.dll
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Application.pdb
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Infrastructure.pdb
+D:\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Domain.pdb
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.build.Presentation.props
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets.pack.json
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets.build.json
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets.development.json
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\scopedcss\bundle\Presentation.styles.css
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.csproj.CopyComplete
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.dll
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.pdb
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.genruntimeconfig.cache
+D:\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\ref\Presentation.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\appsettings.Development.json
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\appsettings.json
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.staticwebassets.runtime.json
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.exe
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.deps.json
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.runtimeconfig.json
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Presentation.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\AutoMapper.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Azure.Core.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Azure.Identity.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\FluentValidation.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\MediatR.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Application.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Domain.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Infrastructure.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Application.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Infrastructure.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Domain.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.build.Presentation.props
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets.build.json
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\staticwebassets.development.json
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\scopedcss\bundle\Presentation.styles.css
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.csproj.CopyComplete
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\Presentation.genruntimeconfig.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\obj\Debug\net7.0\ref\Presentation.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Logs\log-20230907.json
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.Enrichers.Environment.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.Enrichers.Process.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Serilog.Enrichers.Thread.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Humanizer.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Presentation\bin\Debug\net7.0\System.CodeDom.dll

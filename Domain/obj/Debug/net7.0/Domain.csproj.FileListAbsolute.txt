@@ -1,0 +1,24 @@
+D:\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\LibraryManagementWebApi\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\LibraryManagementWebApi\Domain\bin\Debug\net7.0\Domain.dll
+D:\LibraryManagementWebApi\Domain\bin\Debug\net7.0\Domain.pdb
+D:\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.dll
+D:\LibraryManagementWebApi\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.pdb
+D:\LibraryManagementWebApi\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\bin\Debug\net7.0\Domain.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\bin\Debug\net7.0\Domain.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\obj\Debug\net7.0\Domain.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Domain\obj\Debug\net7.0\ref\Domain.dll

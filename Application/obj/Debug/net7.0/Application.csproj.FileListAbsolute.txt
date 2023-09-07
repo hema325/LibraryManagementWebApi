@@ -1,0 +1,30 @@
+D:\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\LibraryManagementWebApi\Application\bin\Debug\net7.0\Application.deps.json
+D:\LibraryManagementWebApi\Application\bin\Debug\net7.0\Application.dll
+D:\LibraryManagementWebApi\Application\bin\Debug\net7.0\Application.pdb
+D:\LibraryManagementWebApi\Application\bin\Debug\net7.0\Domain.dll
+D:\LibraryManagementWebApi\Application\bin\Debug\net7.0\Domain.pdb
+D:\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.dll
+D:\LibraryManagementWebApi\Application\obj\Debug\net7.0\refint\Application.dll
+D:\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.pdb
+D:\LibraryManagementWebApi\Application\obj\Debug\net7.0\ref\Application.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Application\bin\Debug\net7.0\Application.deps.json
+D:\ASP .NET Core\LibraryManagementWebApi\Application\bin\Debug\net7.0\Application.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Application\bin\Debug\net7.0\Application.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Application\bin\Debug\net7.0\Domain.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Application\bin\Debug\net7.0\Domain.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\ASP .NET Core\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\ASP .NET Core\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Application\obj\Debug\net7.0\refint\Application.dll
+D:\ASP .NET Core\LibraryManagementWebApi\Application\obj\Debug\net7.0\Application.pdb
+D:\ASP .NET Core\LibraryManagementWebApi\Application\obj\Debug\net7.0\ref\Application.dll
