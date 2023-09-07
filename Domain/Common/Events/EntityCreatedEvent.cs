@@ -2,7 +2,7 @@
 {
     public class EntityCreatedEvent: EventBase
     {
-        public EntityBase Entity { get; set; }
+        public EntityBase Entity { get; }
 
         public EntityCreatedEvent(EntityBase entity)
         {
